@@ -1,0 +1,1 @@
+SELECT * FROM atm_db.atm_register;
